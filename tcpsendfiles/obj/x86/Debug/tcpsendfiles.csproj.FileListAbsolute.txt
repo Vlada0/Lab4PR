@@ -1,0 +1,9 @@
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe.config
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.exe
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\bin\Debug\TcpSendFiles.pdb
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Form1.resources
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.Cache
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.exe
+C:\Users\Vlada\Desktop\tcpsendfiles2\tcpsendfiles2\obj\x86\Debug\TcpSendFiles.pdb
